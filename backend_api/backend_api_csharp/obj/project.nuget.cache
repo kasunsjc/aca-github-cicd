@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UkiX/OjDOdPD9WJdHL21A7hKyKek7iO9HnAJ4lXY8QFZ6gx9LqW/hWhUq6ycXv4kYHJVlSh8Vt9pzpW/QqIOEQ==",
+  "success": true,
+  "projectFilePath": "/Users/kasunrajapakse/Library/CloudStorage/OneDrive-Personal/MCSA/Azure/Container-Apps/aca-course/backend_api/backend_api_csharp/albumapi_csharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kasunrajapakse/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kasunrajapakse/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kasunrajapakse/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/kasunrajapakse/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/kasunrajapakse/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/kasunrajapakse/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
